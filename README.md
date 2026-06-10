@@ -3,7 +3,11 @@ An end-to-end UAT testware showcase for the Pro Guitar Tuner app, structured str
 
 # Pro Guitar Tuner (Beta) - End-to-End User Acceptance Test (UAT) Run
 
-[![ISTQB Certified Tester](https://shields.io+)](https://scr.istqb.org/?name=Annalie+Prinsloo&number=ZA010123GK0981040&orderBy=relevancy)
+[![ISTQB Certified Tester](https://shields.io/badge/ISTQB-red)](https://scr.istqb.org/?name=Annalie+Prinsloo&number=ZA010123GK0981040&orderBy=relevancy)
+![Static Badge](https://img.shields.io/badge/UAT-Beta-blue)
+![Static Badge](https://img.shields.io/badge/Functional-blue)
+![Static Badge](https://img.shields.io/badge/BVA-blue)
+![Static Badge](https://img.shields.io/badge/EP-blue)
 
 
 This repository hosts the complete testware suite and execution logs for the production-readiness validation of the **Pro Guitar Tuner App (Beta version)**. 
