@@ -150,6 +150,6 @@ The System Under Test (SUT) is the **Pro Guitar Tuner App (Beta Version 6.0.9)**
 
 | Device model | Harware Tier | Target OS | Test Suite Execution Scope | Accoustic Environments |
 | :--- | :--- | :--- | :--- | :--- |
-| Samsung Galaxy S25 FE | Flagship (Current) | Flagship (Current) | <ul><li>`UAT-PT-01`: 12 Tunings Pitch Checks </li><li>`UAT-UI-01`: Tuning Note Accuracy Checks </li><li>`UAT-UI-02`: General UI Display Checks </li><li>`UAT-UI-03`: Screen Orientation Checks </li><li></li><li>`UAT-UI-04`: Sharp/Flat Notation Toggles </li><li>`UAT-UI-05`: Hz/Cent/String/Solfège Toggles </li><li>`UAT-INT-01`: Physical 4-Guitar Testing </li></ul> | Studio Floor (10–30 dB)High Noise Environment |
+| Samsung Galaxy S25 FE | Flagship (Current) | Android 16 | <ul><li>`UAT-PT-01`: 12 Tunings Pitch Checks </li><li>`UAT-UI-01`: Tuning Note Accuracy Checks </li><li>`UAT-UI-02`: General UI Display Checks </li><li>`UAT-UI-03`: Screen Orientation Checks </li><li></li><li>`UAT-UI-04`: Sharp/Flat Notation Toggles </li><li>`UAT-UI-05`: Hz/Cent/String/Solfège Toggles </li><li>`UAT-INT-01`: Physical 4-Guitar Testing </li></ul> | Studio Floor (10–30 dB)High Noise Environment |
 | Samsung Galaxy S21 FE | Flagship (Legacy) | Android 16 | <ul><li>`UAT-PT-01`: 12 Tunings Pitch Checks </li><li>`UAT-UI-03`: Screen Orientation Checks </li></ul> | Studio Floor (10–30 dB) | 
 | Samsung Galaxy A53 5G | Mid-Range | Android 16 | <ul><li>`UAT-PT-01`: 12 Tunings Pitch Checks </li><li>`UAT-UI-03`: Screen Orientation Checks </li></ul> | Studio Floor (10–30 dB) |
