@@ -1,5 +1,12 @@
 # User Acceptance Test Plan: Pro Guitar Tuner App Beta
 
+Identifier: TP-APP-03
+Test Level: User Acceptance Testing (UAT)
+Current Status: **Completed**
+Version: v1.2
+Date: 2026-05-29
+Author: Annalie Prinsloo
+
 ## 1. Document Control
 ### 1.1 Revision History
 
